@@ -35,6 +35,7 @@
 
 .body-info {
     display: flex;
+    justify-content: center;
 }
 
 .info {
