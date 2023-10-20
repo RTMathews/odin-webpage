@@ -51,4 +51,5 @@
 .paragraph-wrapper {
     display: flex;
     justify-content: center;
+    padding-top: 128px;
 }
