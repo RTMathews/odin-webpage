@@ -20,8 +20,14 @@
 .wrapper {
     display: flex;
     align-items: center;
+    background-color: #1f2937;
+    justify-content: space-evenly;
 }
 
 .left-header {
     max-width: 50%;
+}
+
+.header-text, .header-subtext {
+    color:white;
 }
