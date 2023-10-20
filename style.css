@@ -6,6 +6,6 @@
     margin-right: auto;
 }
 
-.header-links {
-    display: inline;
+.header-links li {
+    display: inline-block;
 }
