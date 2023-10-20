@@ -32,3 +32,7 @@
 .header-text, .header-subtext {
     color:white;
 }
+
+.body-info {
+    padding-left: 50%;
+}
