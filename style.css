@@ -16,3 +16,12 @@
     color: white;
     text-decoration: none;
 }
+
+.wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.left-header {
+    max-width: 50%;
+}
