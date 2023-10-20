@@ -5,3 +5,7 @@
 .header {
     margin-right: auto;
 }
+
+.header-links {
+    display: inline;
+}
