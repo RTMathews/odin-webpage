@@ -47,3 +47,7 @@
 .info-text {
     max-width: 128px;
 }
+
+.paragraph-wrapper {
+    display: flex;
+}
