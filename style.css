@@ -22,6 +22,7 @@
     align-items: center;
     background-color: #1f2937;
     justify-content: space-evenly;
+    padding-bottom: 32px;
 }
 
 .left-header {
