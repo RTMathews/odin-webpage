@@ -40,7 +40,7 @@
 
 .info {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 .info-text {
