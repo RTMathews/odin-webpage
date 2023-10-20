@@ -34,7 +34,7 @@
 }
 
 .body-info {
-    padding-left: 50%;
+    display: flex;
 }
 
 .info {
