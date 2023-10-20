@@ -41,6 +41,7 @@
 .info {
     display: flex;
     justify-content: center;
+    gap: 48px;
 }
 
 .info-text {
