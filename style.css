@@ -85,3 +85,7 @@
 .top-signup:hover {
     background-color: darkblue;
 }
+
+.footer-wrapper {
+    padding-top: 128px;
+}
