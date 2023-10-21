@@ -1,2 +1,2 @@
 # odin-webpage
-Practice web page
+Making a basic website in html and css with images and text.
