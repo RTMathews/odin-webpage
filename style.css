@@ -94,6 +94,7 @@
     display: flex;
     align-items: center;
     flex-direction: column;
+    background-color: #3882f6;
 }
 
 .footer-text {
