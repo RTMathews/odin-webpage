@@ -62,3 +62,8 @@
     font-style:italic;
     max-width: 60rem;
 }
+
+.quote-credit {
+    font-size: 24px;
+    padding-left: 44rem;
+}
