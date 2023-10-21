@@ -129,3 +129,7 @@
     padding-bottom: 6px;
     border-radius: 5px;
 }
+
+.bot-signup:hover {
+    color: darkblue;
+}
