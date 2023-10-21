@@ -145,3 +145,8 @@
 .copyright-text {
     color: white;
 }
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
