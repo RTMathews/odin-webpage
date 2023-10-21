@@ -139,3 +139,7 @@
     display:flex;
     justify-content: center;
 }
+
+.copyright-text {
+    color: white;
+}
