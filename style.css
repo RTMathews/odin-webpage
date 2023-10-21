@@ -138,6 +138,7 @@
     background-color:#1F2937;
     display:flex;
     justify-content: center;
+    padding-top: 2rem;
 }
 
 .copyright-text {
