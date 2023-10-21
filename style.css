@@ -68,6 +68,7 @@
     padding-left: 44rem;
     padding-top: 4rem;
     font-style: normal;
+    font-weight: bold;
 }
 
 .top-signup {
@@ -106,4 +107,5 @@
 
 .footer-subtext {
     padding-bottom: 2rem;
+    color: white;
 }
