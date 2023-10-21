@@ -60,4 +60,5 @@
 .body-paragraph {
     font-size: 32px;
     font-style:italic;
+    max-width: 60rem;
 }
