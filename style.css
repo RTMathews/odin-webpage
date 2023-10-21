@@ -95,3 +95,7 @@
     align-items: center;
     flex-direction: column;
 }
+
+.footer-text {
+   font-weight: bold; 
+}
