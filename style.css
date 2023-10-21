@@ -7,10 +7,15 @@
     margin-right: auto;
 }
 
+.header-links {
+    padding-right: 4rem;
+}
+
 .header-links li {
     display: inline-block;
     padding: 12px;
     font-size: 18px;
+    color:#e5e7eb
 }
 
 .header-links li a {
